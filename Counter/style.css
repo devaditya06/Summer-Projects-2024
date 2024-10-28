@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#count {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ccc;
+}
+
+.main-box{
+    background-color:rgb(210, 208, 208);
+    width: 500px;
+    height: 290px;
+    position:absolute;
+    top: 10px;
+    left: 100px;
+}
